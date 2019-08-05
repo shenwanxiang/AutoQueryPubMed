@@ -1,5 +1,5 @@
 
-Using python to batch query literatures from pubmed automatically, red rows in xlsx file are keywords that are not matched 
+# Using python to batch query literatures from [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/) automatically, red rows in xlsx file are keywords that are not matched 
 
 
 ## 1) install

@@ -28,7 +28,7 @@ def PubMedQuery(Inputfile, Outputfile, AdditionalKeyWords, verbose = False):
     
     with open(Inputfile, 'r') as f:
         drugs = f.readlines()
-    drugs = [i.strip() for i in drugs][:20]
+    drugs = [i.strip() for i in drugs]
 
     pubmed = PubMed(tool="Query-Pubmed-Toolbox", email="wanxiang.shen@u.nus.edu")
     al = []

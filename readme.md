@@ -4,8 +4,8 @@ Using python to batch query literatures from [pubmed](https://www.ncbi.nlm.nih.g
 
 ## 1) install
 * downnload the zip file, then unzip;
-* cd ./AutoQueryPubMed-master
-* pip install -r requirements.txt
+* $ `cd ./AutoQueryPubMed-master`
+* $ `pip install -r requirements.txt`
 
 ## 2) usage: 
 * a: `python QueryPubmedTool.py input.txt  output.xlsx pharmacokinetics` 

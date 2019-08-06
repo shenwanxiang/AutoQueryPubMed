@@ -8,7 +8,7 @@ Using python to batch query literatures from [pubmed](https://www.ncbi.nlm.nih.g
 * $ `pip install -r requirements.txt`
 
 ## 2) usage: 
-* a: `python QueryPubmedTool.py input.txt  output.xlsx pharmacokinetics` 
+* $ `python QueryPubmedTool.py input.txt  output.xlsx pharmacokinetics` 
 ##### or open verbose to print log info by: 
-* b: `python QueryPubmedTool.py input.txt  output.xlsx pharmacokinetics --verbose` 
+* $ `python QueryPubmedTool.py input.txt  output.xlsx pharmacokinetics --verbose` 
 
